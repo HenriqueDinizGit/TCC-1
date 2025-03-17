@@ -8,10 +8,11 @@ O artigo aborda os desafios enfrentados no desenvolvimento de software de automa
 
 ## 2. Fichamento Bibliográfico
 
-* **Requirements with Logs (RWL):** Uma abordagem log-based que utiliza análise de logs e process mining para descobrir a execução real dos processos de negócio, alinhando-os com a arquitetura do software (aprox. p. 192874-192880).  
-* **Process Variability:** Refere-se às constantes mudanças nos processos de negócio, que dificultam a elicitação de requisitos precisos e requerem adaptações frequentes no software (aprox. p. 192878-192880).  
-* **Dependência de Praticantes:** A necessidade de envolvimento contínuo dos stakeholders para eliciar requisitos, que pode resultar em atrasos, erros e aumento de custos; a RWL propõe reduzir essa dependência ao automatizar a captura das informações por meio dos logs (aprox. p. 192880-192882).  
-* **Resultados do Caso de Estudo:** A aplicação da RWL resultou em reduções significativas no tempo de adaptação, nas reuniões com praticantes e na resolução de problemas, evidenciando melhorias na eficiência do desenvolvimento de TBPA (aprox. p. 192882-192887).
+* **Process Variability:** Variabilidade nos processos de negócio que dificulta a elicitação de requisitos precisos e a manutenção do software.
+* **Process Mining:** Técnica de mineração de processos que utiliza logs para descobrir e modelar o fluxo real de trabalho, identificando gargalos e variações.
+* **Logger:** Sistema de captura de eventos (logs) em dispositivos dos praticantes, essencial para registrar a execução dos processos de negócio.
+* **Traceability:** Rastreabilidade que assegura a correspondência entre os requisitos do processo e os componentes da arquitetura do software, facilitando adaptações às mudanças.
+
 
 ## 3. Fichamento de Citações
 
