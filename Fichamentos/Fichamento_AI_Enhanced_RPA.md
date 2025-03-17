@@ -8,10 +8,10 @@ O artigo realiza uma revisão abrangente sobre a integração de Inteligência A
 
 ## 2. Fichamento Bibliográfico
 
-* **RPA Tradicional vs. AI-Enhanced RPA:** RPA automatiza tarefas rotineiras e baseadas em regras, mas quando integrada com AI, permite operações complexas, incluindo análise e previsão, agregando valor à automação (aprox. p. 173-175).  
-* **Vantagens da Integração:** A sinergia entre RPA e AI resulta em redução de custos, aumento da produtividade e melhoria na precisão operacional, o que é crucial para a transformação digital em diversas indústrias (aprox. p. 173, 177).  
-* **Aplicações em Diversos Setores:** O artigo analisa casos de uso em áreas como finanças, auditoria, saúde, recrutamento e manufatura, destacando como a integração promove eficiência e inovação em cada contexto (aprox. p. 175-180).  
-* **Desafios e Limitações:** Questões tecnológicas, como a integração com sistemas legados, além de preocupações éticas e de privacidade, são apresentadas como desafios críticos para a implementação de AI-enhanced RPA (aprox. p. 180-183).
+* **Robotic Process Automation (RPA):** Tecnologia que automatiza tarefas repetitivas e baseadas em regras, imitando a interação humana com sistemas.
+* **Intelligent Process Automation (IPA):** Integração de AI com RPA, que confere aos bots capacidades cognitivas, permitindo a execução de tarefas mais complexas.
+* **Cognitive Automation:** Abordagem que utiliza técnicas de AI, como machine learning e NLP, para automatizar processos que exigem tomada de decisão.
+* **Text Mining:** Técnica de mineração de texto empregada para extrair informações e insights de grandes volumes de dados textuais, utilizada para melhorar a automação inteligente.
 
 ## 3. Fichamento de Citações
 
