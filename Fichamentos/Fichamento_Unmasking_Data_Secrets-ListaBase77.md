@@ -8,10 +8,10 @@ O artigo investiga o conceito de “data smells”, definidos como indicações 
 
 ## 2. Fichamento Bibliográfico
 
-* **Data Smells:** Conceituados como indicadores baseados no valor dos dados que apontam para problemas de qualidade decorrentes de práticas inadequadas (aprox. p. 1-3).  
-* **Atualização do Catálogo:** O estudo amplia o catálogo pré-existente, adicionando 12 novos data smells e três novas categorias, visando um entendimento mais abrangente do fenômeno (aprox. p. 3-5).  
-* **Abordagem Empírica e Métodos Estatísticos:** Utilização de 19 conjuntos de dados reais e aplicação de métodos como a correlação de Spearman e modelos lineares generalizados para correlacionar a presença dos data smells com métricas de qualidade dos dados (aprox. p. 5-7).  
-* **Impacto Cumulativo:** Embora um único data smell possa ter impacto reduzido, o acúmulo de instâncias é demonstrado como fator crítico na degradação da qualidade dos dados (aprox. p. 7-8).
+* **Data Smells:** Termo em inglês que se refere a “indicações baseadas no valor dos dados” que sinalizam problemas latentes de qualidade, análogo aos code smells em software.
+* **Spearman’s Coefficient:** Método estatístico utilizado para medir a correlação entre a ocorrência dos data smells e as métricas de data quality.
+* **Generalized Linear Models (GLM):** Modelos estatísticos empregados para quantificar o impacto cumulativo dos data smells nas métricas de qualidade dos dados.
+* **Catalog Update:** Atualização do catálogo de data smells, que inclui novas categorias e definições, aprimorando a compreensão dos problemas de qualidade dos dados.
 
 ## 3. Fichamento de Citações
 
