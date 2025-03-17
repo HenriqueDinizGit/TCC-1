@@ -8,10 +8,10 @@ O artigo apresenta uma revisão abrangente dos conceitos, arquiteturas e conside
 
 ## 2. Fichamento Bibliográfico
 
-* **Conceito de Real-Time Analytics (RTA):** Definido como a capacidade de preparar, processar e analisar dados conforme eles chegam, com o objetivo de gerar insights e criar valor de negócio em tempo quase real (aprox. p. Abstract e I).
-* **Analytics Stack Lógico:** Uma estrutura em camadas que organiza os componentes essenciais para soluções de RTA, desde a infraestrutura até as técnicas analíticas, facilitando a escolha de ferramentas e a integração de ML/AI (aprox. p. III-IV).
-* **Requisitos de RTA:** Destacam-se os critérios de baixa latência, alta disponibilidade e escalabilidade horizontal, essenciais para o desempenho das soluções de análise em tempo real (aprox. p. III-B).
-* **Integração de ML/AI em RTA:** Explora as metodologias para incorporar técnicas de machine learning e inteligência artificial em plataformas de RTA, ampliando a capacidade de predição e a tomada de decisão (aprox. p. VII).
+* **Real-time analytics (RTA):** Definido como a capacidade de preparar, processar e analisar dados conforme eles chegam, com o objetivo de gerar insights e criar valor de negócio em tempo quase real (aprox. p. Abstract e I).
+* **logical analytics stack:** Uma estrutura em camadas que organiza os componentes essenciais para soluções de RTA, desde a infraestrutura até as técnicas analíticas, facilitando a escolha de ferramentas e a integração de ML/AI (aprox. p. III-IV).
+* **RTA solutions:** Destacam-se os critérios de baixa latência, alta disponibilidade e escalabilidade horizontal, essenciais para o desempenho das soluções de análise em tempo real (aprox. p. III-B).
+* **integrating RTA with ML and AI:** Explora as metodologias para incorporar técnicas de machine learning e inteligência artificial em plataformas de RTA, ampliando a capacidade de predição e a tomada de decisão (aprox. p. VII).
 
 ## 3. Fichamento de Citações
 
