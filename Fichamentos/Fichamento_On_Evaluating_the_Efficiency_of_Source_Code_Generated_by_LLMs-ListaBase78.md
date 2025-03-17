@@ -8,10 +8,10 @@ O artigo investiga a eficiência do código gerado por modelos de linguagem de g
 
 ## 2. Fichamento Bibliográfico
 
-* **Eficiência do Código Gerado:** O estudo evidencia que a eficiência (medida pelo runtime) do código produzido pelos LLMs é uma dimensão distinta da sua correção funcional, demonstrando que modelos com maior acurácia nem sempre geram código mais rápido (aprox. p. 103-104).  
-* **Benchmarks Utilizados:** São empregados os conjuntos HumanEval e MBPP para problemas de nível básico, além do LeetCodeEval para problemas mais complexos, permitindo uma comparação abrangente entre os modelos (aprox. p. 103-105).  
-* **Prompting para Otimização:** Os autores exploram diferentes estratégias de prompting, inclusive prompts em cadeia, para incentivar os modelos a gerar soluções com menor tempo de execução, especialmente em problemas de maior complexidade (aprox. p. 105-106).  
-* **Normalização do Runtime:** Para comparar de forma justa os diferentes códigos gerados, os runtimes são normalizados conforme uma metodologia inspirada nas práticas de plataformas como LeetCode e Codeforces (aprox. p. 104-105).
+* **Runtime:** Tempo de execução do código gerado, usado como métrica principal para avaliar a eficiência dos LLMs.
+* **Pass@10:** Métrica que indica a probabilidade de pelo menos uma das 10 amostras geradas passar em todos os testes, refletindo a performance dos modelos.
+* **Normalized Runtime:** Técnica de normalização dos tempos de execução para possibilitar comparações justas entre os diferentes modelos de LLM.
+* **Benchmarking:** Uso de benchmarks como HumanEval, MBPP e LeetCodeEval para medir e comparar a eficiência dos códigos gerados.
 
 ## 3. Fichamento de Citações
 
