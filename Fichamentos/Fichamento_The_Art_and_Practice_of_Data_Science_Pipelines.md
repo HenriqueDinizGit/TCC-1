@@ -8,10 +8,10 @@ O artigo apresenta um estudo abrangente sobre os pipelines de data science, divi
 
 ## 2. Fichamento Bibliográfico
 
-* **Definição de DS Pipeline:** O pipeline de data science é definido como uma sequência de estágios – como aquisição, preparação, modelagem, treinamento, avaliação, e predição – que interagem de forma interdependente para transformar dados brutos em insights úteis (aprox. p. 2091-2093).  
-* **Representações dos Pipelines:** O estudo propõe três representações dos pipelines para os cenários teórico, in-the-small e in-the-large, destacando as diferenças na modularização e na presença de feedback loops (aprox. p. 2092-2100).  
-* **Método de Rotulagem:** Foi utilizada uma abordagem de open-coding, com treinamento e reavaliação entre os raters, resultando em alta concordância (Cohen’s Kappa ≈ 0.83) para a identificação e classificação dos estágios dos pipelines (aprox. p. 2092-2094).  
-* **Diferenças de Organização:** Enquanto pipelines teóricos abrangem todas as etapas com clareza, pipelines in-the-small frequentemente omitem estágios como armazenamento e avaliação, e os pipelines in-the-large demonstram estruturas complexas com múltiplos módulos e fases de desenvolvimento versus pós-desenvolvimento (aprox. p. 2094-2100).
+* **Data Science Pipeline:** Conceito que descreve a sequência de etapas (data acquisition, preparation, modeling, training, evaluation, prediction) utilizadas no desenvolvimento de projetos de ciência de dados.
+* **Open-Coding:** Técnica qualitativa utilizada para rotular e categorizar os estágios dos pipelines, permitindo a extração de uma forma padronizada (canonical form).
+* **Canonical Form:** Representação padronizada dos pipelines que facilita a comparação entre as abordagens teóricas, in-the-small e in-the-large.
+* **Feedback Loops:** Ciclos de retroalimentação presentes, especialmente em pipelines in-the-large, que evidenciam a necessidade de ajustes e reavaliações contínuas.
 
 ## 3. Fichamento de Citações
 
